@@ -1,0 +1,20 @@
+{
+    "name": "joel-depiltech/date-format-conversion",
+    "description": "Translate date/time format between `date()` and `strftime()`",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Joël Gaujard",
+            "email": "joel@depiltech.com",
+            "homepage": "http://depiltech.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=5.4.0"
+    },
+    "autoload": {
+      "files": ["date-format-conversion.php"]
+    }
+}
